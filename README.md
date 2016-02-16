@@ -8,6 +8,6 @@ Contributions are welcome
 
 
 <img src="https://raw.githubusercontent.com/jgmuchiri/simplychat/master/screenshot.jpg"/>
-
+<img src="https://raw.githubusercontent.com/jgmuchiri/simplychat/master/screenshot1.jpg"/>
 
 <a href="http://icoolpix.com" target="_blank">iCoolPix Designs</a>
